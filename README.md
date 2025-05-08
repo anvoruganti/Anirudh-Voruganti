@@ -1,26 +1,19 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Anirudh Voruganti</h1>
 
 # 💫 About Me:
-I am a fourth-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a Masters' student in Information Systems at Northeastern University, passionate about exploring the realms of coding, machine learning, large scale systems and building robust applications.
 
 ## 🚀 What I'm Up To
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
 
 ## 🎓 About Me
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
-
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-voruganti/)
 
 # 💻 Tech Stack:
 Languages: 
